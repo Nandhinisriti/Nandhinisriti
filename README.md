@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nandhinisriti
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning electronics and communication engineering
+- 🌱 I’m currently graduated in electronics and communication engineering
 
 
 <!---
